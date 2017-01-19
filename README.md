@@ -1,6 +1,8 @@
-#RxTuples
+#RxTuples2
 
-RxTuples is a library to smooth RxJava usage by adding simple Tuple creation functions.
+RxTuples2 is a library to smooth RxJava2 usage by adding simple Tuple creation functions.
+
+For the RxJava 1.X version, please go to [RxTuples](https://github.com/pakoito/RxTuples).
 
 ##Rationale
 
@@ -46,7 +48,7 @@ Add as a dependency to your `build.gradle`
     
     dependencies {
         ...
-        compile 'com.github.pakoito:RxTuples:1.0.+'
+        compile 'com.github.pakoito:RxTuples2:1.0.0'
         ...
     }
 
@@ -67,7 +69,7 @@ or to your `pom.xml`
 
 ##License
 
-Copyright (c) pakoito 2015
+Copyright (c) pakoito 2017
 
 The Apache Software License, Version 2.0
 
