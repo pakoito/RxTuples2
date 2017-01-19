@@ -63,7 +63,7 @@ or to your `pom.xml`
     
     <dependency>
         <groupId>com.github.pakoito</groupId>
-        <artifactId>RxTuples</artifactId>
+        <artifactId>RxTuples2</artifactId>
         <version>1.0.0</version>
     </dependency>
 
