@@ -1,5 +1,5 @@
 /*
- * Copyright (c) pakoito 2015
+ * Copyright (c) pakoito 2017
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -24,7 +24,8 @@ targetCompatibility = 1.6
 
 dependencies {
     compile 'org.javatuples:javatuples:1.2'
-    compile 'io.reactivex:rxjava:1.1.0'
+    compile 'io.reactivex.rxjava2:rxjava:2.0.4'
+    testCompile 'junit:junit:4.12'
 }
 
 install {
