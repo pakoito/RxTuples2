@@ -12,7 +12,7 @@ Other languages have the concept of a Tuple built into them, which is an in-plac
 
 ##Usage
 
-RxTuples come as lazily evaluated FuncN and its main use case is alongside the combineLatest, withLatestFrom, zip, and zipWith operators.
+RxTuples come as lazily evaluated FunctionN and its main use case is alongside the `combineLatest()`, `withLatestFrom()`, `zip()`, and `zipWith()` operators.
 
 Zip a list element into a pair with their position:
 
